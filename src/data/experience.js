@@ -6,10 +6,10 @@ export const experience = [
     role: 'Software Engineer Intern (Returning Intern)',
     period: 'Apr 2024 - Aug 2024, Apr 2025 - Aug 2025',
     bullets: [
-      'Contributed to developing the company website, building Python REST APIs and integrating React components to support enrollment, authentication, and course workflows for 5,000+ learners across 60+ programs.',
-      'Implemented backend integrations and data pipelines to ingest course metadata and live session logs, increasing analytics refresh cadence from weekly to daily for 500+ active users.',
-      'Assisted with optimizing SQL queries (BigQuery), API contracts, and validation layers, cutting dashboard load times by ~30% and participating in data-driven product changes that increased learner retention by 50%+.',
-      'Supported deployment workflows and infrastructure configuration on AWS using Terraform and CI/CD pipelines, contributing to version-controlled environments and reliable production releases.'
+      'Contributed to developing the company website, building Python REST APIs and integrating React components to support 5,000+ learners across 60+ programs.',
+      'Implemented backend integrations and data pipelines for course metadata and session logs, increasing anaytics refresh cadence from weekly to daily for 500+ active users.',
+      'Optimized BigQuery queries and validation layers, cutting dashboard load times by ~30% and contributing to data-driven changes that improved learner retention by 50%+.',
+      'Supported deployment workflows and infrastructure configuration on AWS using Terraform and CI/CD pipelines, delivering reliable production releases.'
     ],
     location: 'Hybrid, Mississauga'
   },
