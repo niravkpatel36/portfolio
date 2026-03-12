@@ -7,8 +7,8 @@ export const experience = [
     period: 'Apr 2024 - Aug 2024, Apr 2025 - Aug 2025',
     bullets: [
       'Contributed to developing the company website, building Python REST APIs and integrating React components to support 5,000+ learners across 60+ programs.',
-      'Implemented backend integrations and data pipelines for course metadata and session logs, increasing anaytics refresh cadence from weekly to daily for 500+ active users.',
-      'Optimized BigQuery queries and validation layers, cutting dashboard load times by ~30% and contributing to data-driven changes that improved learner retention by 50%+.',
+      'Implemented backend integrations & data pipelines for course metadata and session logs, increasing anaytics refresh cadence from weekly to daily for 500+ active users.',
+      'Optimized BigQuery queries and validation layers, cutting dashboard load times by ~30% & contributing to data-driven changes that improved learner retention by 50%+.',
       'Supported deployment workflows and infrastructure configuration on AWS using Terraform and CI/CD pipelines, delivering reliable production releases.'
     ],
     location: 'Hybrid, Mississauga'
