@@ -34,7 +34,7 @@ export const projects = [
     short: 'A full-stack music platform that combines discovery, interactive prompts, and curated album experiences.',
     images: [v1, v2, v3, v4],
     description: 'VENTURE is a production-oriented, full-stack music exploration system that unifies external API integration, deterministic prompt interpretation, and custom audio playback within a single cohesive architecture. The platform supports real-time music search via the Spotify Web API, a prompt-driven mood and theme explorer, and a fully designed interactive album experience. Built with clear separation of concerns and extensibility in mind, VENTURE prioritizes predictable rendering, accessibility, and scalability while providing a forward-compatible surface for future AI-driven enhancements.',
-    highlights: ['Spotify API Integration', 'Deterministic Prompt Engine'],
+    highlights: ['API Integration', 'Deterministic Prompt Engine'],
   },
   {
     id: 'skrt',
