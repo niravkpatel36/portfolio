@@ -3,15 +3,15 @@ export const experience = [
   {
     id: 'traininghub-intern',
     company: 'TrainingHub',
-    role: 'Software Engineer Intern (Returning Intern)',
-    period: 'Apr 2024 - Aug 2024, Apr 2025 - Aug 2025',
+    role: 'Software Engineer Intern',
+    period: 'Apr 2025 - Apr 2026',
     bullets: [
-      'Contributed to developing the company website, building Python REST APIs and integrating React components to support 5,000+ learners across 60+ programs.',
-      'Implemented backend integrations & data pipelines for course metadata and session logs, increasing anaytics refresh cadence from weekly to daily for 500+ active users.',
-      'Optimized BigQuery queries and validation layers, cutting dashboard load times by ~30% & contributing to data-driven changes that improved learner retention by 50%+.',
-      'Supported deployment workflows and infrastructure configuration on AWS using Terraform and CI/CD pipelines, delivering reliable production releases.'
+      'Owned development of Python REST APIs and React features powering enrolment, authentication, and course workflows used by 5,000+ learners across 60+ programs.',
+      'Built backend integrations and ingestion pipelines for course metadata and live session logs, improving analytics refresh from weekly to daily for 500+ users.',
+      'Cut dashboard load times by ~30% via BigQuery SQL optimization and improved API contracts, contributing to 50%+ higher learner retention.',
+      'Improved AWS infrastructure and deployments using Terraform and CI/CD, enabling reliable, version-controlled releases.'
     ],
-    location: 'Hybrid, Mississauga'
+    location: 'Mississauga, ON'
   },
   {
     id: 'kidstraining-founder',
@@ -34,7 +34,7 @@ export const experience = [
       'Delivered 350+ industry-backed STEM workshops (Hydro One partnership) to 5,000+ students across the GTA, improving engineering interest by 26.6%.',
       'Automated feedback processing and performed data analysis (Excel) to optimize workshop design, improving engagement and operational efficiency.'
     ],
-    location: 'Greater Toronto Area'
+    location: 'Toronto, ON'
   },
   {
     id: 'real-estate',
