@@ -6,7 +6,7 @@ export const experience = [
     role: 'Software Engineer Intern',
     period: 'Apr 2025 - Apr 2026',
     bullets: [
-      'Owned development of Python REST APIs and React features powering enrolment, authentication, and course workflows used by 5,000+ learners across 60+ programs.',
+      'Owned development of Python REST APIs and React features powering enrolment, authentication, and course workflows used by 1,000+ learners across 20+ programs.',
       'Built backend integrations and ingestion pipelines for course metadata and live session logs, improving analytics refresh from weekly to daily for 500+ users.',
       'Cut dashboard load times by ~30% via BigQuery SQL optimization and improved API contracts, contributing to 50%+ higher learner retention.',
       'Improved AWS infrastructure and deployments using Terraform and CI/CD, enabling reliable, version-controlled releases.'
