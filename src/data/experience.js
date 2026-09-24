@@ -42,8 +42,8 @@ export const experience = [
     role: 'Realtor',
     period: 'Jan 2026 - Present',
     bullets: [
-      'Represented buyers and sellers through the end-to-end real estate process, including property showings, offer preparation, negotiations, and closing coordination.',
-      'Prepared and reviewed agreements of purchase and sale, conducted market analysis, and ensured compliance with provincial real estate regulations.'
+      'Advised clients on pricing, market positioning, and negotiation strategy to support successful residential transactions.',
+      'Analyzed market data and structured offers while managing documentation and regulatory requirements.'
     ],
     location: 'Ontario'
   }
